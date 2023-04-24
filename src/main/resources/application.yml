@@ -1,2 +1,2 @@
 server:
-  address: 8020
+  port: 8020
